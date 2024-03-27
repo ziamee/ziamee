@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ziamee
 - 👀 I’m interested in dicovering new
-- 🌱 I’m currently learning coding program
+- 🌱 I’m currently learning C++ , Phyton , html/css/JavaScript 
 - 💞️ I’m looking to collaborate on you 
 - 📫 How to reach me message me 
-- 😄 Pronouns: nothing 
 - ⚡ Fun fact: Im boring 😂
 
 <!---
