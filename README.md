@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ziamee
 - 👀 I’m interested in dicovering new
-- 🌱 I’m currently learning C++ , Phyton ,     html/css/JavaScript 
 - 📫 How to reach me message me 
 - ⚡ Fun fact: Im boring 😂
 
