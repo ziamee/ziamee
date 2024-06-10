@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ziamee
+- QA Engineer
 - 👀 I’m interested in dicovering new
 - 📫 How to reach me message me 
 - ⚡ Fun fact: Im boring 😂
